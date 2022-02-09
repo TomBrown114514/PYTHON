@@ -1,3 +1,4 @@
+#使用版本：Python 3.11.0a5
 def fbnq(n: int) -> int :
     match n:
         case 1|2:
